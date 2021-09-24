@@ -13,4 +13,6 @@ This is a single-function tool to remove random MAC addresses accumulated in the
 
 Note that the IP address is that of the controller, not (necessarily) the gateway. 
 
+Visit https://[CONTROLLER_IP]/users/users in your browser to find/add credentials.
+
 (Thanks to aiounifi repo for much of code handling auth/etc.)
